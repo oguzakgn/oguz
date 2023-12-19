@@ -1,0 +1,50 @@
+body,h1{
+	margin: 60px;
+	padding: 0px;
+}
+body{
+	background-color: #0A0433;
+}
+.sayfa{
+	width: 960px;
+	margin: 10px auto;
+}
+#logo{
+	float: left;
+	color: rgb(17, 85, 112);
+	font-size: 65px;
+	font-family: "Bangers" ,sans-serif ;
+	margin-top: 10px;
+	margin-right: 40px;
+	margin-left: 30px;
+	
+}
+
+
+a{
+
+    font-size: 30px;
+    color: rgb(
+        156, 194, 217
+        );
+    text-decoration: none;
+    margin-left: 420px;
+    }
+
+	.icerik{padding-top: 25px;
+		
+
+	}
+
+	i{
+font-size: 40px;
+		color: aquamarine;
+		margin-left: 500px;
+	}
+
+	
+
+ 
+.temizle{
+	clear: both;
+}

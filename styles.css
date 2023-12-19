@@ -1,0 +1,89 @@
+
+i{
+    color: rgb(171, 95, 3);
+    font-size: 22px;
+    
+}
+
+a{
+
+    font-size: 22px;
+    color: rgb(14, 112, 34);
+    text-decoration: none;
+    }
+
+.selam{ 
+text-align: center;
+font-size: 25px;
+margin-top: 18%;
+color: rgb(56, 148, 116);
+font-family: "Rubik Bubbles" ,sans-serif ;
+
+
+}
+
+.isim{
+    text-align: center;
+   font-size: 40px;
+   margin-top: 2%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(43, 136, 76);
+  font-family: "Raleway" ,sans-serif ;
+}
+   
+
+.email{
+text-align: end;
+float: inline-end;
+margin-right: 4%;
+margin-top: 2%;
+font-family: "Anton" ,sans-serif ;
+}
+
+
+
+.kim{
+text-align: center;
+font-size: 22px;
+font-weight: 1000;
+margin-top: 300px;
+color: red;
+font-family: "Anton" ,sans-serif ;
+
+}
+
+.info{
+    
+    text-align: center;
+    font-size: 30px;
+   width: 500px;
+   margin-left: 500px;
+   font-family: "Pacifico" ,sans-serif ;
+
+}
+
+
+
+
+img{
+    margin-top: 1%;
+    margin-left: 1%;
+  }
+
+.work{
+
+    background-color: rgb(231, 56, 56);
+    margin-left: 660px;
+    padding: 15px 30px;
+    border: 1px solid rgb(255, 102, 158);
+    border-radius: 15px;
+    color: rgb(68, 33, 37);
+    
+}
+
+.work:hover{
+    color: rgb(248, 71, 71);
+    background-color: #212139;
+}
+
+
